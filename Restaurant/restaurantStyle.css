@@ -1,0 +1,27 @@
+/* Common elements across all pages */
+h1 {
+  font-size: 20px;
+  line-height: 40px;
+  color: #44749d;
+}
+
+footer {
+  font-size: 15px;
+  line-height: 10px;
+  color: #44749d;
+}
+
+a:link {
+  color: blue;
+}
+
+a:hover {
+font-weight: bold;
+}
+
+a:visited {
+  color: green; 
+}
+a:active {
+  text-decoration: none;
+}
