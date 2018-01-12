@@ -8,7 +8,8 @@ h1 {
 footer {
   font-size: 15px;
   line-height: 10px;
-  color: #44749d;
+  color: #44749d
+  text-align: center;
 }
 
 a:link {
@@ -20,7 +21,7 @@ font-weight: bold;
 }
 
 a:visited {
-  color: green; 
+  color: green;
 }
 a:active {
   text-decoration: none;
